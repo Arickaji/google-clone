@@ -6,10 +6,9 @@ import Search from './Pages/Search';
 function App() {
   return (
     <div className="App">
-
       <Router>
         <Routes>
-          <Route path="/Search" element={"This is a Search page"} />
+          <Route path="/Search" element={<SearchPage />} />
           <Route path="/" element={<Home />} />
         </Routes>
       </Router>
