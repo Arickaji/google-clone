@@ -18,9 +18,9 @@ Welcome to the **Google Clone** repository! This project is a fully functional, 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Backend/Server**: [Optional - Specify if any backend technology is used, like Firebase, Node.js, etc.]
-- **APIs**: [Optional - Mention any third-party APIs used]
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+) , Tailwind CSS
+- **Backend/Server**: Next.js
+- **APIs**: Google Custom Search AP
 
 ## 📦 Installation & Setup
 
