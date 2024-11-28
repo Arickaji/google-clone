@@ -13,6 +13,7 @@ Welcome to the **Google Clone** repository! This project is a fully functional, 
 
 - **Search Functionality**: Simulates Google's search experience.
 - **Responsive Design**: Optimized for various screen sizes.
+- **Firebase Hosting: Deployed on Firebase for fast, reliable, and globally distributed access.
 - **Modern UI/UX**: Clean and intuitive user interface.
 - **Dynamic Results Rendering**: Mimics the real-time search experience.
 
